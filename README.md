@@ -1,4 +1,4 @@
-# Проект: My New Repo
+# Проект: My New Project
 
 Добро пожаловать в мой новый репозиторий! Здесь вы найдете описание проекта, инструкции по установке и использованию.
 
@@ -16,12 +16,12 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/my-new-repo.git
+    git clone https://github.com/your-username/my-new-project.git
     ```
 
 2. Перейдите в директорию проекта:
     ```bash
-    cd my-new-repo
+    cd my-new-project
     ```
 
 3. Запустите проект:
@@ -41,7 +41,7 @@
 
 Ниже представлено изображение, иллюстрирующее работу программы:
 
-![Пример работы программы](7IAAAgJ.jpg)
+![Пример работы программы](my_honest_reaction.jpg)
 
 ## Ссылки
 
